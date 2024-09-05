@@ -83,13 +83,6 @@ You can watch our video demo in here : <a href="https://www.youtube.com/embed/L4
         <td width="100" align="center">Riza</td>
       </tr>
       <tr>
-        <th>Position</th>
-        <td width="150" align="center">Backend<br /></td>
-        <td width="150" align="center">Frontend<br /></td>
-        <td width="150" align="center">UI/UX<br /></td>
-        <td width="150" align="center">Graphic Design<br /></td>
-      </tr>
-      <tr>
         <th>GitHub</th>
         <td width="100" align="center">
           <a href="https://github.com/rizkanfirmansyah">
